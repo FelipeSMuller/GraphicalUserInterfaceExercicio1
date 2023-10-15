@@ -245,7 +245,7 @@ public class GUI extends JFrame {
 				 * define a localização em que o frame aparecerá na tela do monitor por meio do
 				 * método setLocation, que recebe dois parâmetros (posicionamento em relação ao
 				 * canto esquerdo, posicionamento em relação ao topo), isto é, cada valor define
-				 * um ponto da coordenada x,y a partir da qual o frame aparecerá. Observe que é
+				 * um ponto da coordenada x,y a partir da qual o frame aparecerá. É
 				 * realizado um cálculo que leva em consideração o tamanho da tela e do frame
 				 * ((largura da tela – largura do frame)/2,(altura da tela – altura do
 				 * frame)/2). Isso permite centralizar o frame na tela, independentemente de seu
